@@ -3,7 +3,7 @@
 Updated Sep 10, 2020
 The primary goal of this file is to demonstrate a simple unittest implementation
 
-@author: Leena Domadia
+@author: Jigna Domadia
 I pledge my Honor that I have abided by the Stevens Honor System
 """
 
